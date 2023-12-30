@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">A biomedical engineering student from Spain</h3>
 
-- 🔭 I’m currently studying at **University**
+- 🔭 I’m currently studying at **Universidad Francisco de Vitoria**
 
 - 🌱 I’m currently learning **Python, Image Processiing and 3D Printing techniques**
 
